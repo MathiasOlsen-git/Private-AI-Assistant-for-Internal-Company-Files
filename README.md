@@ -32,25 +32,25 @@ Clean Streamlit UI for interactive Q&A
 
 ## How to Run It
 
-# 1. Install dependencies
+### 1. Install dependencies
 
 pip install -r requirements.txt
 
-# 2. Start Ollama and load the model
+### 2. Start Ollama and load the model
 
 ollama run mistral
 
 (Keep this terminal open)
 
-# 3. Add your documents
+### 3. Add your documents
 
 Put your .pdf files in the data/ folder.
 
-# 4. Create/refresh the vector index
+### 4. Create/refresh the vector index
 
 python rag_pipeline/embed_and_index.py
 
-# 5. Run the chat app
+### 5. Run the chat app
 
 streamlit run app/app.py
 
