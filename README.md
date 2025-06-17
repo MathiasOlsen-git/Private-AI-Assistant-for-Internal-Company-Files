@@ -1,4 +1,4 @@
-Secure Document Assistant
+# Secure Document Assistant
 
 A fully private, locally-hosted Retrieval-Augmented Generation (RAG) system that lets you chat with internal company documents using open-source AI models.
 
