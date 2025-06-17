@@ -1,0 +1,28 @@
+# Python cache og midlertidige filer
+__pycache__/
+*.py[cod]
+*.log
+
+# Streamlit og app metadata
+.streamlit/
+
+# VSCode settings (valgfrit)
+.vscode/
+
+# Model-filer og embeddings
+vectorstore/
+*.pkl
+*.faiss
+
+# Ollama / lokale modeller (hvis de havner i repo ved en fejl)
+*.bin
+*.gguf
+
+# Data og dokumenter
+/data/
+*.pdf
+*.zip
+
+# OS-filer
+.DS_Store
+Thumbs.db
