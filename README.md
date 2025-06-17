@@ -2,6 +2,10 @@
 
 A fully private, locally-hosted Retrieval-Augmented Generation (RAG) system that lets you chat with internal company documents using open-source AI models.
 
+<p align="center">
+  <img src="AIassistent.PNG" alt="Chat demo" width="700"/>
+</p>
+
 ### Overview
 
 This assistant loads structured and unstructured documents (e.g., PDFs), embeds them into a vector database, and lets you ask questions via a Streamlit-based chat interface. Everything runs locally using Ollama and an open-source LLM like mistral.
