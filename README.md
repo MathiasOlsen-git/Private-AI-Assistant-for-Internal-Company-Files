@@ -3,8 +3,9 @@
 A fully private, locally-hosted Retrieval-Augmented Generation (RAG) system that lets you chat with internal company documents using open-source AI models.
 
 <p align="center">
-  <img src="AIassistent.PNG" alt="Chat demo" width="700"/>
+  <img src="SecureAssistant.png" alt="Secure Assistant" width="700"/>
 </p>
+
 
 ### Overview
 
